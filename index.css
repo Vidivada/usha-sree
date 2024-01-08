@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+button{
+    background-color: rgb(95, 47, 207);
+    height: 35px;
+    width: 35px;
+    border-radius:20%;
+    border: 2px solid rgb(117, 128, 214);
+    color: white;
+}
+#result{
+    background-color: azure;
+    border-radius:10%;
+    height: 30px;
+}
